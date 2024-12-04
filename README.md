@@ -71,5 +71,4 @@ My journey in technology began at the age of 13, sparking a lifelong passion for
 These certifications will enhance your professional profile and showcase your skills to potential employers. Let me know if you need guidance on how to pursue any of these!
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
