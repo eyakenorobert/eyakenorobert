@@ -11,16 +11,16 @@ In addition to my technical skills, I specialize in video editing to craft engag
 My journey in technology began at the age of 13, sparking a lifelong passion for learning and innovation. Over the years, I have developed skills in data entry, web and mobile development, software testing, and video editing. I am now eager to transition these experiences into a more specialized field, with a particular focus on leveraging my abilities in a dynamic and impactful role. My goal is to apply my technical expertise and creativity in environments where I can contribute to solving real-world challenges and driving growth.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+- Data Entry: Proficient in accurate and efficient data management with attention to detail and organization.  
+- Web Development: Skilled in creating responsive and user-friendly websites using modern technologies.  
+- Mobile App Development: Experience in developing intuitive and functional mobile applications.  
+- Software Testing: Knowledgeable in testing software for quality assurance, identifying bugs, and ensuring functionality.  
+- AI Tools Utilization: Adept at leveraging AI tools to simplify tasks, enhance productivity, and drive results.  
+- Video Editing: Skilled in editing videos to create engaging content, leveraging them for marketing strategies and business growth.  
+- Tech Savvy: Quick learner and adaptable, with a strong passion for exploring and implementing new technologies.  
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
