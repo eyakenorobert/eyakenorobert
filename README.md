@@ -23,37 +23,52 @@ My journey in technology began at the age of 13, sparking a lifelong passion for
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+ 
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+- Backend Development: PHP (Laravel Framework)  
+- Frontend Development: React.js, HTML, CSS, JavaScript  
+- Mobile Development: Flutter  
+- Video Editing: Adobe Premiere Pro  
+- Data Entry & Management: Microsoft Excel, Google Sheets  
+- AI Tools: ChatGPT, MidJourney, and other productivity-enhancing platforms  
+- Manual Software Testing: Test case creation, bug tracking, and exploratory testing  
+- Website Development: WordPress
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+### Software Testing
+- ISTQB Certified Tester – Foundation Level  
+- Certified Software Tester (CSTE)  
+- Microsoft Certified: Azure Fundamentals (for cloud-based testing knowledge)  
+
+### Web Development
+- Meta Front-End Developer Certificate (Coursera)  
+- Responsive Web Design Certification (freeCodeCamp)  
+- React Professional Certificate (LinkedIn Learning)  
+
+### Backend Development
+- PHP Certification (W3Schools or PHP Institute)  
+- Laravel Certification  
+
+### **Mobile Development
+- Google Associate Android Developer Certification  
+- Flutter Developer Certificate (Offered by Dart and Flutter Communities)  
+
+### Data and Productivity Tools
+- Microsoft Office Specialist (MOS) Certification – Excel  
+- Google Workspace Certification  
+
+### Video Editing and Marketing
+- Adobe Certified Professional in Video Design (Premiere Pro)  
+- Social Media Marketing Certification (HubSpot Academy)  
+
+### AI and Automation
+- AI for Everyone (Coursera by Andrew Ng)  
+- Automation Anywhere Certified Advanced RPA Professional  
+
+These certifications will enhance your professional profile and showcase your skills to potential employers. Let me know if you need guidance on how to pursue any of these!
 
 ## Projects
 - Detection Lab
