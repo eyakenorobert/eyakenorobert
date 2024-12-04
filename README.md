@@ -3,12 +3,12 @@
 
 ## ABOUT ME 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a tech-savvy professional with a passion for creating innovative solutions and driving results. My expertise spans data entry, web and mobile development, and software testing, where I focus on delivering efficient, high-quality outcomes. I harness the power of AI tools to simplify complex tasks, enhance productivity, and ensure every project meets and exceeds expectations.  
+
+In addition to my technical skills, I specialize in video editing to craft engaging content that boosts marketing strategies and helps businesses achieve their goals. My unique blend of creativity and technical know-how enables me to deliver impactful results, making me a valuable partner for businesses looking to grow and succeed in a competitive digital landscape.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in technology began at the age of 13, sparking a lifelong passion for learning and innovation. Over the years, I have developed skills in data entry, web and mobile development, software testing, and video editing. I am now eager to transition these experiences into a more specialized field, with a particular focus on leveraging my abilities in a dynamic and impactful role. My goal is to apply my technical expertise and creativity in environments where I can contribute to solving real-world challenges and driving growth.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
