@@ -1,7 +1,7 @@
 # Hello, I'm EyakEno Robert
 
 
-ABOUT ME 
+## ABOUT ME 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
