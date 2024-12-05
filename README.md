@@ -1,7 +1,8 @@
 # Hello, I'm EyakEno Robert
 
+![junior](https://github.com/user-attachments/assets/6a37ec91-5cde-4b37-a353-d13b675ffc3f)
 
-## ABOUT ME 
+## ABOUT ME
 
 I am a tech-savvy professional with a passion for creating innovative solutions and driving results. My expertise spans data entry, web and mobile development, and software testing, where I focus on delivering efficient, high-quality outcomes. I harness the power of AI tools to simplify complex tasks, enhance productivity, and ensure every project meets and exceeds expectations.  
 
